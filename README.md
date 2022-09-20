@@ -2,7 +2,10 @@
 Data analysis
 
 # Project one
-The project is a case study for my Professional data analytics program from Google.
+
+[Divvy_Trips Project](https://github.com/Seped28/Oluwaseun_Portfolio)
+
+The project is a case study for my Google data analytics professional program on Coursera.
 
 Cyclistic is a frictional company, that required my skill as a Junior data analyst to show the how their members patronage differs over a 12 month trip data set which can be downloaded here (https://divvy-tripdata.s3.amazonaws.com/index.html).
 
