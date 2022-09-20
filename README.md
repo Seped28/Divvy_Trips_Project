@@ -1,7 +1,7 @@
 # Oluwaseun_Portfolio
 Data analysis
 
-#Project one
+# Project one
 The project is a case study for my Professional data analytics program from Google.
 
 Cyclistic is a frictional company, that required my skill as a Junior data analyst to show the how their members patronage differs over a 12 month trip data set which can be downloaded here (https://divvy-tripdata.s3.amazonaws.com/index.html).
@@ -11,8 +11,8 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 Task
-Aggregated the dataset
-Identify trends and relationship
+<ul> Aggregated the dataset </ul>
+* Identify trends and relationship
 Carried out descriptive analysis
 Created a Summary
 Data visualization
