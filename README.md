@@ -6,7 +6,7 @@ Data analysis
 
 # Project one
 
-[Divvy_Trips Project](https://github.com/Seped28/Oluwaseun_Portfolio)
+![Divvy_Trips Project](https://github.com/Seped28/Oluwaseun_Portfolio)
 
 The project is a case study for my Google data analytics professional program on Coursera.
 
