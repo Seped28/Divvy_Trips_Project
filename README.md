@@ -31,10 +31,13 @@ From these insights, your team will design a new marketing strategy to convert c
 ![Rmarkdown](https://github.com/Seped28/Oluwaseun_Portfolio/blob/main/Divvy_trips_Project/Rmrk13.png)
 
 ![The project dashboard](https://github.com/Seped28/Oluwaseun_Portfolio/blob/main/Divvy_trips_Project/Case_study_VIZ.png)
+![The project dashboard2](https://github.com/Seped28/Oluwaseun_Portfolio/blob/main/Divvy_trips_Project/Case_study_VIZ2.png)
+
 
 ##  Task
 * Aggregated the dataset 
-* Identify trends and relationship
+* Data wrangling and cleaning
+* Identified trends and relationship
 * Carried out descriptive analysis
 * Created a Summary
 * Data visualization
