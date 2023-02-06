@@ -3,7 +3,7 @@
 # Oluwaseun_Portfolio
 Data analysis
 
-# Project one
+# Capstone Project 
 
 [Divvy_Trips Project](https://github.com/Seped28/Oluwaseun_Portfolio)
 
